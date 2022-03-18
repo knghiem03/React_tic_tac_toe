@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/knghiem03.github.io/React_tic_tac_toe/static/css/main.22941023.css",
+    "main.js": "/knghiem03.github.io/React_tic_tac_toe/static/js/main.13ebb27a.js",
+    "index.html": "/knghiem03.github.io/React_tic_tac_toe/index.html",
+    "main.22941023.css.map": "/knghiem03.github.io/React_tic_tac_toe/static/css/main.22941023.css.map",
+    "main.13ebb27a.js.map": "/knghiem03.github.io/React_tic_tac_toe/static/js/main.13ebb27a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.13ebb27a.js"
+  ]
+}
