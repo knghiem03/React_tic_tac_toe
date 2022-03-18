@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/knghiem03.github.io/React_tic_tac_toe/static/css/main.22941023.css",
-    "main.js": "/knghiem03.github.io/React_tic_tac_toe/static/js/main.13ebb27a.js",
-    "index.html": "/knghiem03.github.io/React_tic_tac_toe/index.html",
-    "main.22941023.css.map": "/knghiem03.github.io/React_tic_tac_toe/static/css/main.22941023.css.map",
-    "main.13ebb27a.js.map": "/knghiem03.github.io/React_tic_tac_toe/static/js/main.13ebb27a.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.22941023.css",
-    "static/js/main.13ebb27a.js"
-  ]
+  "main.css": "/React_tic_tac_toe/static/css/main.cacef44d.chunk.css",
+  "main.js": "/React_tic_tac_toe/static/js/main.53c6dde4.chunk.js",
+  "main.js.map": "/React_tic_tac_toe/static/js/main.53c6dde4.chunk.js.map",
+  "static/js/1.31ddb313.chunk.js": "/React_tic_tac_toe/static/js/1.31ddb313.chunk.js",
+  "static/js/1.31ddb313.chunk.js.map": "/React_tic_tac_toe/static/js/1.31ddb313.chunk.js.map",
+  "runtime~main.js": "/React_tic_tac_toe/static/js/runtime~main.93462c9a.js",
+  "runtime~main.js.map": "/React_tic_tac_toe/static/js/runtime~main.93462c9a.js.map",
+  "static/css/main.cacef44d.chunk.css.map": "/React_tic_tac_toe/static/css/main.cacef44d.chunk.css.map",
+  "index.html": "/React_tic_tac_toe/index.html",
+  "precache-manifest.09fcc51d3ca2433f5f0a4151cd207a27.js": "/React_tic_tac_toe/precache-manifest.09fcc51d3ca2433f5f0a4151cd207a27.js",
+  "service-worker.js": "/React_tic_tac_toe/service-worker.js"
 }
